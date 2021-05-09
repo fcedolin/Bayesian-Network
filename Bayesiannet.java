@@ -5,7 +5,6 @@
  * @version 1.0
  * @since 05/09/2021
  * Known issues: none
- * To be implemented:
  */
 
 import java.util.*;
